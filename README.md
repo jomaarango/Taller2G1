@@ -35,10 +35,15 @@ Registro Juan Gamez:
 
 ![Image of Yaktocat](https://raw.githubusercontent.com/jomaarango/Taller2G1/BorradorTaller1G1/alient.PNG)
 
+Registro Jorge mario Arango:
+
+![Image of Yaktocat](https://github.com/jomaarango/Taller2G1/blob/BorradorTaller1G1/vulnerabilidad%20oracle%20.png?raw=true)
+
+La fuente para esta vulnerabilidad fue X-Force Exchange de IBM
+
 
 * En estas 4 fuentes de inteligencia de amenazas busque al menos un reporte de cada una de las bases de datos identificadas en         el Taller 1.    
 Alient
 ![Image of Yaktocat](https://raw.githubusercontent.com/jomaarango/Taller2G1/BorradorTaller1G1/alient2.PNG)
-* Colque una muestra de cada uno de los reportes de amenazas en un repositorio de GitHub y envíe enlace del repositorio al Docente. 
-<https://blog.talosintelligence.com/2019/04/sodinokibi-ransomware-exploits-weblogic.html>
-![Image of Yaktocat](https://raw.githubusercontent.com/jomaarango/Taller2G1/BorradorTaller1G1/talos.PNG)   
+* Colque una muestra de cada uno de los reportes de amenazas en un repositorio de GitHub y envíe enlace del repositorio al Docente.    
+   
